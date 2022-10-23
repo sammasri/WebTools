@@ -58,7 +58,7 @@
                 }
                 if (isset($_POST['check'])) {
                     $check1 = $_POST['check'];
-                    if ($check1 == '764FB4F+Hd!7FAN5%pnu^ba6)C(EI#uw&X3S&V5h5fpda') {
+                    if ($check1 == '%mypass') {
                         define('BUFSIZ', 4095);
                         try {
                             $rfile = fopen($url, 'r');
@@ -109,4 +109,7 @@
 
 
 
-<!-- https://www.googleapis.com/drive/v3/files/FILEID/?key=AIzaSyDXCexvPWhITGQto6nQizNx_y7ip9-NO9Y&alt=media -->
+<!-- https://www.googleapis.com/drive/v3/files/FILEID/?key=GOOGLEAPIKEY&alt=media -->
+
+
+<!-- y AIzaSyDXCexvPWhITGQto6nQizNx_s7ip9-NO9Y -->
