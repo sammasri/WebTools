@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Status types: draft, -->
+<!-- Status types: draft, publish -->
+<!-- Variables: [[ITEMS]] -->
 
 <rss version="2.0"
   xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
@@ -44,7 +45,7 @@
       <height>32</height>
     </image>
 
-
+  [[ITEMS]]
   </channel>
 </rss>
 	
