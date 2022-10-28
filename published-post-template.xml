@@ -4,7 +4,7 @@
       <category domain="category" nicename="CATEGORYSLUGQUOTED"><![CDATA[CATEGORYNAME]]></category>
       -->
     <!-- -->
-    <!-- [[TAGS]] TAGSLUGQUOTED TAGNAME
+    <!-- [[TAGS]] TAGSLUGQUOTED TAGNAME POSTDATEGMT
       <category domain="post_tag" nicename="TAGSLUGQUOTED"><![CDATA[TAGNAME]]></category>
      -->
     <!-- -->
@@ -20,9 +20,9 @@
       <excerpt:encoded><![CDATA[]]></excerpt:encoded>
       <wp:post_id>3052</wp:post_id>
       <wp:post_date><![CDATA[POSTDATE]]></wp:post_date>
-      <wp:post_date_gmt><![CDATA[POSTDATE]]></wp:post_date_gmt>
+      <wp:post_date_gmt><![CDATA[POSTDATEGMT]]></wp:post_date_gmt>
       <wp:post_modified><![CDATA[POSTDATE]]></wp:post_modified>
-      <wp:post_modified_gmt><![CDATA[POSTDATE]]></wp:post_modified_gmt>
+      <wp:post_modified_gmt><![CDATA[POSTDATEGMT]]></wp:post_modified_gmt>
       <wp:comment_status><![CDATA[open]]></wp:comment_status>
       <wp:ping_status><![CDATA[open]]></wp:ping_status>
       <wp:post_name><![CDATA[POSTSLUGQUOTED]]></wp:post_name>
